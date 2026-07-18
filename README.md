@@ -16,4 +16,4 @@ JavaScript
 Tailwind CSS
 
 Live Demo
-You can view the live page here: links.a-almabadi.com
+You can view the live page here: https://links.a-almabadi.com/
