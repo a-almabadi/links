@@ -1,4 +1,8 @@
 Personal Links Page
+
+
+
+
 A minimal and responsive Link-in-Bio web page designed to centralize my professional profiles, projects, and social media platforms.
 
 Features
